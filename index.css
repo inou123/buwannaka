@@ -1,1 +1,25 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/6b/b7/d6/6bb7d6ecfe7e63d15edbfa5ac41103ab.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
 
+h1 {
+    color: blue;
+}
+
+h2,
+h3,
+p {
+    color: red;
+}
+
+div {
+    border: 5px solid black;
+    margin: 100px 150px 100px 80px;
+    background-color: rgba(255, 255, 255, 0.3); /* transparent white */
+    padding: 20px;
+}

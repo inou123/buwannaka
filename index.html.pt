@@ -1,39 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Buwan ng Wika</title>
+
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    
-    <h1>Buwan ng Wika</h1>
-    <h2>Pagdiriwang ng Wikang Filipino</h2>
+    <center>
+        <h1>Buwan ng Wika</h1>
 
-    
-    <p>
-        Ang Buwan ng Wika ay ipinagdiriwang tuwing Agosto upang
-        pahalagahan ang ating wikang Filipino at kulturang Pilipino.
-    </p>
+        <div>
+            <h2>Pagdiriwang ng Wikang Filipino</h2>
 
-    
-    <p>Maligayang <strong>Buwan ng Wika!</strong></p>
+            <p>
+                Ang Buwan ng Wika ay ipinagdiriwang tuwing Agosto upang
+                pahalagahan ang ating wikang Filipino at kulturang Pilipino.
+            </p>
 
-    
-    <img src="bnw.jpg"
-         alt="Bandila ng Pilipinas"
-         width="250">
+            <p>Maligayang <strong>Buwan ng Wika!</strong></p>
 
-    
-    <h3 style="color: blue; text-align: center;">
-        Ipagmalaki ang Wikang Filipino
-    </h3>
+            <h3>Ipagmalaki ang Wikang Filipino</h3>
 
-    
-    <p>
-        <b>Filipino</b> ang ating pambansang wika.<br>
-        <i>Mahalin</i> at <u>ipagmalaki</u> ito.<br>
-        Ang wikang Filipino ay <mark>mahalaga</mark> sa ating pagkakakilanlan.
-    </p>
+            <p>
+                <b>Filipino</b> ang ating pambansang wika.<br>
+                <i>Mahalin</i> at <u>ipagmalaki</u> ito.<br>
+                Ang wikang Filipino ay <mark>MAHALAGA</mark> sa ating pagkakakilanlan.
+            </p>
+        </div>
+    </center>
 
 </body>
 </html>
